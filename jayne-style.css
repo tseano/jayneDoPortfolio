@@ -1,0 +1,96 @@
+/*CSS reset settings here*/
+*{
+}
+#wrapper{
+ height: 1000px;
+ padding: 15px;
+ width: 970px;
+ background-color: rgb(209, 216, 227);
+ margin: auto;
+ padding: 15px;
+}
+#header{
+    background: rgb(203, 202, 202);
+    width: 945px;
+    vertical-align: middle;
+    padding: 3px;
+}
+
+#jayne_headshot{
+    background: rgb(246, 242, 242);
+    vertical-align: middle;
+    padding: 5px;
+    display: inline-block;
+   }
+#about-jane{
+ background: rgb(246, 242, 242);
+ vertical-align: middle;
+ 
+ display: inline-block;
+}
+#lamode{
+    background: rgb(246, 242, 242);
+    vertical-align: middle;
+    padding: 5px;
+    display: inline-block;
+}
+#main_content{
+ height: 430px;
+ width: 725px;
+ float: right;
+ border-radius: 20px;
+ margin-top: 20px;
+ padding: 15px;
+ background-color: #0F1822;
+ vertical-align: middle;
+ font-size: medium;
+ color: #C3D6EB;
+}
+#advertisement{
+ height: 23px;
+ border-radius: 20px;
+ margin-top: 245px;
+ padding: 15px;
+ background-color: #5E6672;
+ vertical-align: middle;
+ color: #C3D6EB;
+}
+.head{
+    vertical-align: middle;
+    padding: 1px;
+    margin-top: -5px;
+    color: #C3D6EB;
+    
+}
+ul{
+    padding: 0 0 0 15px;
+    color: #c3d6eb;
+    font-weight: 300;
+    font-size: 13px;
+        
+}
+.info{
+    margin-top: -10px;
+}
+.hl
+{
+    color: #757a8c;
+}
+h1{
+    text-align: left;
+    display: inline;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-right: 40%;
+    vertical-align: middle;
+    position: relative;
+    bottom: 0.2em;
+}
+h2{
+    font-size: 1.25em;
+    display: inline;
+    padding-right: 1em;
+    text-align: right;
+    vertical-align: bottom;
+    position: relative;
+    bottom: 0.5em;
+}
